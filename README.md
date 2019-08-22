@@ -1,4 +1,4 @@
 # Python-gui-calculator
 Simple Python calculator with tkinter libary
 
-![calculator](https://user-images.githubusercontent.com/54413533/63547037-e9524e00-c533-11e9-8db1-d687fd04bbc8.jpg)
+![Calculator (2)](https://user-images.githubusercontent.com/54413533/63547123-228abe00-c534-11e9-828a-c13927a05c40.jpg)
